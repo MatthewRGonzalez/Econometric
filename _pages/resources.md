@@ -17,11 +17,11 @@ I take no credit for these resources. I have only come to find them through expl
 
 [Econometrics Full Reference](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/Econometrics2005.pdf)
 
-[Econometrics Condensed](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/Econometrics%20Condensed)
+[Econometrics Condensed](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/Econometrics%20Condensed.pdf)
 
 
 #### The basic matrix OLS model:
-[Matrix OLS](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/MATRIX%20OLS%20(CHAP%207))
+[Matrix OLS](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/MATRIX%20OLS%20(CHAP%207).pdf)
 
 [Gauss-Markov Proof](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/GAUSS-MARKOV%20PROOF.pdf)
 
