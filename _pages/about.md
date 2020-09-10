@@ -8,7 +8,11 @@ permalink: /about/
 
 This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
-## Features
+## Hello World!
+
+$$
+2x^2
+$$
 
 - Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
 - Fully responsive and mobile optimized base theme
