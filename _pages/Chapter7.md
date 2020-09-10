@@ -104,8 +104,10 @@ $$
 
 
 By plugging in  $$\hat{\beta}$$
+
 $$
 \begin{align*}
+
 \hat{y} &= X\hat{\beta}_{OLS} \\
 \hat{y} &= X(X'X)^{-1}XY  \\
 \hat{y} &= P_XY
@@ -161,12 +163,13 @@ $$
 $$
 
 
-Define $\begin{vmatrix} 
+Define 
+$$\begin{vmatrix} 
 1 & 1 \\
 -1 & 1
-\end{vmatrix}$ as C. Such that $X^* = XC$. From (a) we know that nonsingular transformations of independent variables have the same fitted values and residuals.
+\end{vmatrix}$$ as $$C$$. Such that $$X^* = XC$$. From (a) we know that nonsingular transformations of independent variables have the same fitted values and residuals.
 
-$\blacksquare$
+$$\blacksquare$$
 
 
 
@@ -276,7 +279,7 @@ X_{1}'X_{1} & X_{1}'X_{2}\\
 X_{2}'X_{1} & X_{2}'X_{2}
 \end{bmatrix}
 $$
-We can find the inverse using the inverse results provided above: However we can note that from the properties discussed in the digression above, we can solve for $\hat{\beta_{2,OLS}}$ considering only the bottom row of $A^{-1}$
+We can find the inverse using the inverse results provided above: However we can note that from the properties discussed in the digression above, we can solve for $$\hat{\beta_{2,OLS}}$$ considering only the bottom row of $$A^{-1}$$
 
 i.e.
 $$
@@ -291,7 +294,7 @@ Where $$F = (A_{22}-A_{21}A_{11}^{-1}A_{12})^{-1}$$
 
 
 
-Solving for $$F = (A_{22}-A_{21}A_{11}^{-1}A_{12})^{-1}$ using $A$$ above:
+Solving for $$F = (A_{22}-A_{21}A_{11}^{-1}A_{12})^{-1}$$ using $$A$$ above:
 
 
 $$
@@ -367,7 +370,7 @@ X_{1}'X_{1}\hat{\beta}{_{1,OLS}}+X_{1}'X_{2}\hat{\beta}{_{2,OLS}} = X_1'y \\
 X_{2}'X_{1}\hat{\beta}{_{1,OLS}}+X_{2}'X_{2}\hat{\beta}{_{2,OLS}} = X_2'y \\
 $$
 
-To isolate $ \hat{\beta}{_{1,OLS}} $, premultiply. by $(X_1'X')^{-1}$, then rearrange
+To isolate $$ \hat{\beta}{_{1,OLS}} $$, premultiply. by $$(X_1'X')^{-1}$$, then rearrange
 $$
 \begin{align*}
 (X_1'X')^{-1}(X_{1}'X_{1}\hat{\beta}{_{1,OLS}}+X_{1}'X_{2}\hat{\beta}{_{2,OLS}} &= X_1'y )\\
@@ -402,7 +405,7 @@ X_{2}'X_{2}\hat{\beta}{_{2,OLS}}- X_2'{P}_{X_1}X_2\hat{\beta}{_{2,OLS}} &= X_2'y
 \end{align*}
 $$
 
-**(c) Using FWL, show that if $X_1=\iota_n$ a vector of ones indicating the presence of a constant. Then (i)  $$\hat\beta_{2,OLS}$$ can be obtained by running $$y_i - \bar{y}$$ on the set of variables in $$X_2$$ expressed as deviations from their respective sampole means (ii) The least squares estimate of the constant $$\hat\beta_{1,OLS}$$ can be retrieved as $$\bar{y} -\bar{X_2}'\hat{\beta}_{2,OLS} $$ where $$\bar{X}_2'=\iota_n'X_2/n$$ is in the vector of sample means of the independent variables in $$X_2$$.**
+**(c) Using FWL, show that if $$X_1=\iota_n$$ a vector of ones indicating the presence of a constant. Then (i)  $$\hat\beta_{2,OLS}$$ can be obtained by running $$y_i - \bar{y}$$ on the set of variables in $$X_2$$ expressed as deviations from their respective sampole means (ii) The least squares estimate of the constant $$\hat\beta_{1,OLS}$$ can be retrieved as $$\bar{y} -\bar{X_2}'\hat{\beta}_{2,OLS} $$ where $$\bar{X}_2'=\iota_n'X_2/n$$ is in the vector of sample means of the independent variables in $$X_2$$.**
 
 
 
@@ -489,7 +492,7 @@ $$
 y_i-\bar{y} = ({X_2}-\bar{X_2})\beta_2 +(u-\bar{u})
 $$
 
-We have found that the estimate of $\hat\beta_{2,OLS}$ can be optained by running $y_i - \bar{y}$ on the set of variables in $X_2$ expressed as deviations from their respective sampole means.
+We have found that the estimate of $$\hat\beta_{2,OLS}$$ can be optained by running $$y_i - \bar{y}$$ on the set of variables in $$X_2$$ expressed as deviations from their respective sampole means.
 
 
 
@@ -507,9 +510,9 @@ In 7.2.b.
 
 
 
-For $X_1 = \iota$:
+For $$X_1 = \iota$$:
 
-$\frac{\iota'}{n}(y-X_2' \hat{\beta}_{2,OLS})= \bar{y}-\bar{X_2}'\hat{\beta}_{2,OLS}$ 
+$$\frac{\iota'}{n}(y-X_2' \hat{\beta}_{2,OLS})= \bar{y}-\bar{X_2}'\hat{\beta}_{2,OLS}$ $
 
 
 
