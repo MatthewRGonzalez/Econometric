@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chapter7
+title: Chapter 7
 permalink: /chapter-7/
 ---
 
