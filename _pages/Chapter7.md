@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Getting started with Reverie
-permalink: /Chapter 7/
+title: Chapter7
+permalink: /Chapter-7/
 ---
 # Chapter 7 Problems (Baltagi)
 
