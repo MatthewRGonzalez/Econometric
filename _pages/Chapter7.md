@@ -107,12 +107,14 @@ By plugging in  $$\hat{\beta}$$
 
 $$
 \begin{align*}
-
 \hat{y} &= X\hat{\beta}_{OLS} \\
+
 \hat{y} &= X(X'X)^{-1}XY  \\
 \hat{y} &= P_XY
 \end{align*}
 $$
+
+
 From above, $$P_{X^*} = P_X$$.
 
 
