@@ -19,7 +19,7 @@ permalink: /chapter-7/
 
 $$
 y = X\beta + u
-$$$
+$$
 
 
 -----
@@ -53,11 +53,11 @@ P_{X^*} &= XC((XC)'(XC))^{-1}(XC)'\\
 $$
 
 
-Note that $$\bar{P_X} = (I-P_X)$$, Thus, we have already shown that $$\bar{P_X} = \bar{P_X*}$$
+Note that $$\bar{P}_X = (I-P_X)$$, Thus, we have already shown that $$\bar{P}_X = \bar{P}_X*$$
 
 
 
-Finally, consider the fitted values of the regression y on X, i.e. $\hat{y}$. 
+Finally, consider the fitted values of the regression y on X, i.e. $$\hat{y}$$. 
 
 ----
 
@@ -90,6 +90,7 @@ $$
 
 
 From normal equation (7.3): 
+
 $$
 \begin{align*}
 
@@ -98,7 +99,9 @@ X'X\hat{\beta} &= X' Y \\
 
 \end{align*}
 $$
-By plugging in  $\hat{\beta}$ 
+
+
+By plugging in  $$\hat{\beta}$$
 $$
 \begin{align*}
 \hat{y} &= X\hat{\beta}_{OLS} \\
@@ -341,7 +344,6 @@ X_{1}'X_{1} & X_{1}'X_{2}\\
 X_{2}'X_{1} & X_{2}'X_{2}
 \end{bmatrix}
 
-
 \begin{bmatrix}
 \hat{\beta}{_{1,OLS}}\\
 \hat{\beta}{_{2,OLS}}
@@ -352,34 +354,28 @@ X_{2}'X_{1} & X_{2}'X_{2}
 X_{1}'y\\
 X_{2}'y
 \end{bmatrix}
-
 \\
-
-
-
-
-
 \end{align*}
 $$
+
 Written as
 $$
 X_{1}'X_{1}\hat{\beta}{_{1,OLS}}+X_{1}'X_{2}\hat{\beta}{_{2,OLS}} = X_1'y \\
-
-
 X_{2}'X_{1}\hat{\beta}{_{1,OLS}}+X_{2}'X_{2}\hat{\beta}{_{2,OLS}} = X_2'y \\
 $$
+
 To isolate $ \hat{\beta}{_{1,OLS}} $, premultiply. by $(X_1'X')^{-1}$, then rearrange
 $$
 \begin{align*}
 (X_1'X')^{-1}(X_{1}'X_{1}\hat{\beta}{_{1,OLS}}+X_{1}'X_{2}\hat{\beta}{_{2,OLS}} &= X_1'y )\\
 \hat{\beta}{_{1,OLS}}+(X_1'X')^{-1}X_{1}'X_{2}\hat{\beta}{_{2,OLS}} &= (X_1'X')^{-1}X_1'y \\
 \hat{\beta}{_{1,OLS}} &= (X_1'X')^{-1}X_1'y -(X_1'X')^{-1}X_{1}'X_{2}\hat{\beta}{_{2,OLS}}\\
-
 &=(X_1'X')^{-1}X_1'(y-X_{2}\hat{\beta}{_{2,OLS}})
-
 \end{align*}
 $$
+
 Now, plug into second equation
+
 $$
 \begin{align*}
 X_{2}'X_{1}((X_1'X')^{-1}X_1'y -(X_1'X')^{-1}X_{1}'X_{2}\hat{\beta}{_{2,OLS}}) +X_{2}'X_{2}\hat{\beta}{_{2,OLS}} &= X_2'y \\
@@ -403,7 +399,7 @@ X_{2}'X_{2}\hat{\beta}{_{2,OLS}}- X_2'{P}_{X_1}X_2\hat{\beta}{_{2,OLS}} &= X_2'y
 \end{align*}
 $$
 
-**(c) Using FWL, show that if $X_1=\iota_n$ a vector of ones indicating the presence of a constant. Then (i)  $\hat\beta_{2,OLS}$ can be obtained by running $y_i - \bar{y}$ on the set of variables in $X_2$ expressed as deviations from their respective sampole means (ii) The least squares estimate of the constant $\hat\beta_{1,OLS}$ can be retrieved as $\bar{y} -\bar{X_2}'\hat{\beta}_{2,OLS} $ where $\bar{X}_2'=\iota_n'X_2/n$ is in the vector of sample means of the independent variables in $X_2$.**
+**(c) Using FWL, show that if $X_1=\iota_n$ a vector of ones indicating the presence of a constant. Then (i)  $$\hat\beta_{2,OLS}$$ can be obtained by running $$y_i - \bar{y}$$ on the set of variables in $$X_2$$ expressed as deviations from their respective sampole means (ii) The least squares estimate of the constant $$\hat\beta_{1,OLS}$$ can be retrieved as $$\bar{y} -\bar{X_2}'\hat{\beta}_{2,OLS} $$ where $$\bar{X}_2'=\iota_n'X_2/n$$ is in the vector of sample means of the independent variables in $$X_2$$.**
 
 
 
@@ -417,7 +413,9 @@ and
 $$
 \bar{P}_{X_1}y = \bar{P}_{X_1}X_2\beta_2+\bar{P}_{X_1}u
 $$
+
 We know that from the problem above:
+
 $$
 X_1 = \iota_n = 
 
@@ -425,6 +423,7 @@ X_1 = \iota_n =
 1 & 1 & ... &1
 \end{bmatrix}'
 $$
+
 Then 
 $$
 \begin{align*}
@@ -435,7 +434,9 @@ $$
 
 \end{align*}
 $$
-Note the dimensions of $\underset{n \times 1}\iota$, such that $\underset{1 \times n}\iota'\underset{n \times 1}\iota$ is a scalar of size $n$. The inverse of this scalr is $n^{-1}$ or $\frac{1}{n}$.  Now, note that $\underset {n \times 1} \iota  \ \underset {1 \times n} \iota' $ is an $n \times n$ matrix of 1's. such that $(\iota \iota')y$ is $\sum_{i=1}^n y_i$  Putting it all together 
+
+
+Note the dimensions of $$\underset{n \times 1}\iota$$, such that $$\underset{1 \times n}\iota'\underset{n \times 1}\iota$$ is a scalar of size $$n$$. The inverse of this scalr is $$n^{-1}$$ or $$\frac{1}{n}$$.  Now, note that $$\underset {n \times 1} \iota  \ \underset {1 \times n} \iota' $$ is an $$n \times n$$ matrix of 1's. such that $$(\iota \iota')y$$ is $$\sum_{i=1}^n y_i$$  Putting it all together 
 
 
 $$
@@ -473,7 +474,7 @@ $$
 
 
 
-> Similiarly, $\bar{P}_{X_1}X_2\beta_2 = (\bar{X_2}-X_2)\beta_2$
+> Similiarly, $$\bar{P}_{X_1}X_2\beta_2 = (\bar{X_2}-X_2)\beta_2$$
 
 
 
