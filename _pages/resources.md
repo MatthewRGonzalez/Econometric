@@ -17,18 +17,18 @@ I take no credit for these resources. I have only come to find them through expl
 
 [Econometrics Full Reference](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/Econometrics2005.pdf)
 
-[Econometrics Condensed](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/Econometrics Condensed)
+[Econometrics Condensed](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/Econometrics%20Condensed)
 
 
 #### The basic matrix OLS model:
-[Matrix OLS](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/MATRIX OLS (CHAP 7))
+[Matrix OLS](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/MATRIX%20OLS%20(CHAP%207))
 
-[Gauss-Markov Proof](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/GAUSS-MARKOV PROOF.pdf)
+[Gauss-Markov Proof](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/GAUSS-MARKOV%20PROOF.pdf)
 
 
 #### FWL and partitioned regressions:
 
-[Partitioned Regression](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/Partitioned Regression.pdf)
+[Partitioned Regression](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/Partitioned%20Regression.pdf)
 
 
 [Partitioned Regression Model](https://matthewrgonzalez.github.io/Econometric/Files/REFERENCES/PARTIMOD.pdf)
