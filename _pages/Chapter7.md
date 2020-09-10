@@ -512,7 +512,7 @@ In 7.2.b.
 
 For $$X_1 = \iota$$:
 
-$$\frac{\iota'}{n}(y-X_2' \hat{\beta}_{2,OLS})= \bar{y}-\bar{X_2}'\hat{\beta}_{2,OLS}$ $
+$$\frac{\iota'}{n}(y-X_2' \hat{\beta}_{2,OLS})= \bar{y}-\bar{X_2}'\hat{\beta}_{2,OLS}$$
 
 
 
