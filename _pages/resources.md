@@ -5,6 +5,8 @@ permalink: /resources/
 ---
 
 
-# HELLO
 
-Here I will provide some resources!
+
+## Chapter 7 
+
+
