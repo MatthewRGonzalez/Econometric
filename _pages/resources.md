@@ -11,7 +11,7 @@ permalink: /resources/
 
 I take no credit for these resources. I have only come to find them through exploring google. Though these should only serve as supplementary resource, in the event that anyone is uncomfortable with the hosting of these notes, please feel free to contact me on [Github](https://github.com/MatthewRGonzalez)
 
-### Helpful Resources:
+----
 
 #### Comprehensive notes:
 
