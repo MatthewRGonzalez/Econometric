@@ -5,6 +5,6 @@ categories: [Miscellaneous, Jekyll]
 ---
 
 
-#Hello everyone!
+# Hello everyone!
 
 Welcome to my first attempt at a blog. 
