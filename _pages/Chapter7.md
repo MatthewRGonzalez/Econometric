@@ -10,7 +10,7 @@ permalink: /chapter-7/
 
 ### 7.1.
 
-​	*Invariance of the Fitted Values and Residuals to Nonsingular Transformations of the Independent variables* Post-Multiply the independent variables in (7.1) by a nonsingular transformation C, so that X* = XC.
+​	*Invariance of the Fitted Values and Residuals to Nonsingular Transformations of the Independent variables* Post-Multiply the independent variables in (7.1) by a nonsingular transformation $$C$$, so that $$X* = XC$$.
 
 
 
@@ -24,7 +24,7 @@ $$
 
 -----
 
-**(a) Show that $$P_x^* = P_x$$ and $$\bar{P_x^*} = \bar{P_x}$$. Conclude that the regression of y on $$X$$ has the same fitted values and the same residuals as the regression of y on $$X^*$$**
+**(a) Show that $$P_x^* = P_x$$ and $$\bar{P_x^*} = \bar{P_x}$$. Conclude that the regression of y on $$X$$ has the same fitted values and the same residuals as the regression of $$y$$ on $$X^*$$**
 
 
 
@@ -32,7 +32,7 @@ First, note the structure of the projection matrix:
 $$
 P_X = X(X'X)^{-1}X'
 $$
-Now, plugging X* for X yields the following result: 
+Now, plugging $$X*$$ for $$X$$ yields the following result: 
 
 
 $$
@@ -57,7 +57,7 @@ Note that $$\bar{P}_X = (I-P_X)$$, Thus, we have already shown that $$\bar{P}_X 
 
 
 
-Finally, consider the fitted values of the regression y on X, i.e. $$\hat{y}$$. 
+Finally, consider the fitted values of the regression $$y$$ on $$X$$, i.e. $$\hat{y}$$. 
 
 ----
 
@@ -65,7 +65,9 @@ Finally, consider the fitted values of the regression y on X, i.e. $$\hat{y}$$.
 
 $$
 y = X\hat{\beta} + e \\
+$$
 
+$$
 e = y - X\hat{\beta}_{OLS}
 $$
 
