@@ -19,12 +19,12 @@ permalink: /chapter-7/
 
 $$
 y = X\beta + u
-$$
+$$$
 
 
 -----
 
-**(a) Show that $P_x^* = P_x$ and $\bar{P_x^*} = \bar{P_x}$. Conclude that the regression of y on $X$ has the same fitted values and the same residuals as the regression of y on $X^*$**
+**(a) Show that $$P_x^* = P_x$$ and $$\bar{P_x^*} = \bar{P_x}$$. Conclude that the regression of y on $$X$$ has the same fitted values and the same residuals as the regression of y on $$X^*$$**
 
 
 
@@ -53,7 +53,7 @@ P_{X^*} &= XC((XC)'(XC))^{-1}(XC)'\\
 $$
 
 
-Note that $\bar{P_X} = (I-P_X)$, Thus, we have already shown that $\bar{P_X} = \bar{P_X*}$
+Note that $$\bar{P_X} = (I-P_X)$$, Thus, we have already shown that $$\bar{P_X} = \bar{P_X*}$$
 
 
 
