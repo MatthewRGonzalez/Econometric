@@ -10,7 +10,7 @@ permalink: /chapter-7/
 
 ### 7.1.
 
-​	*Invariance of the Fitted Values and Residuals to Nonsingular Transformations of the Independent variables* Post-Multiply the independent variables in (7.1) by a nonsingular transformation $$C$$, so that $$X* = XC$$.
+*Invariance of the Fitted Values and Residuals to Nonsingular Transformations of the Independent variables* Post-Multiply the independent variables in (7.1) by a nonsingular transformation $$C$$, so that $$X* = XC$$.
 
 
 
@@ -207,7 +207,7 @@ A_{11}^{-1}+A_{11}^{-1}A_{12}FA_{21}A_{11}^{-1} & -A_{11}^{-1}A_{12}F\\
 -FA_{21}A_{11}^{-1} & F
 \end{bmatrix}
 $$
-Where $F = (A_{22}-A_{21}A_{11}^{-1}A_{12})^{-1}$
+Where $$F = (A_{22}-A_{21}A_{11}^{-1}A_{12})^{-1}$$
 
 Here we will consider the partitioned matrix provided in (7.9)
 
@@ -407,11 +407,15 @@ X_{2}'X_{2}\hat{\beta}{_{2,OLS}}- X_2'{P}_{X_1}X_2\hat{\beta}{_{2,OLS}} &= X_2'y
 \end{align*}
 $$
 
-**(c) Using FWL, show that if $$X_1=\iota_n$$ a vector of ones indicating the presence of a constant. Then (i)  $$\hat\beta_{2,OLS}$$ can be obtained by running $$y_i - \bar{y}$$ on the set of variables in $$X_2$$ expressed as deviations from their respective sampole means (ii) The least squares estimate of the constant $$\hat\beta_{1,OLS}$$ can be retrieved as $$\bar{y} -\bar{X_2}'\hat{\beta}_{2,OLS} $$ where $$\bar{X}_2'=\iota_n'X_2/n$$ is in the vector of sample means of the independent variables in $$X_2$$.**
+**(c) Using 
 
 
 
-For (i) Note that FWL indicates that the estimates of $\beta$ and $u$ are the same for both the regression above 
+, show that if $$X_1=\iota_n$$ a vector of ones indicating the presence of a constant. Then (i)  $$\hat\beta_{2,OLS}$$ can be obtained by running $$y_i - \bar{y}$$ on the set of variables in $$X_2$$ expressed as deviations from their respective sampole means (ii) The least squares estimate of the constant $$\hat\beta_{1,OLS}$$ can be retrieved as $$\bar{y} -\bar{X_2}'\hat{\beta}_{2,OLS} $$ where $$\bar{X}_2'=\iota_n'X_2/n$$ is in the vector of sample means of the independent variables in $$X_2$$.**
+
+
+
+For (i) Note that FWL indicates that the estimates of $$\beta$$ and $$u$$ are the same for both the regression above 
 $$
 y = X_1\beta_1 + X_2\beta_2+u
 $$
@@ -436,10 +440,6 @@ Then
 $$
 \begin{align*}
 {P}_{X_1} &= \iota(\iota'\iota)^{-1}\iota'
-
-
-
-
 \end{align*}
 $$
 
