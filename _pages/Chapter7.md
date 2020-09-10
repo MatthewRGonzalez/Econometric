@@ -1,8 +1,11 @@
 ---
 layout: page
 title: Chapter7
-permalink: /Chapter-7/
+permalink: /chapter-7/
 ---
+
+
+
 # Chapter 7 Problems (Baltagi)
 
 ### 7.1.
