@@ -284,7 +284,7 @@ p > img {
 
 
 
--avatar {
+.site-avatar {
   float: left;
   width: 70px;
   height: 70px;
@@ -301,9 +301,7 @@ p > img {
   }
 }
 
-.
-
--info {
+.site-info {
   float: left;
 
   @include mobile {
