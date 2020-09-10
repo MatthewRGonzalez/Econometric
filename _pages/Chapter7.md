@@ -53,7 +53,7 @@ P_{X^*} &= XC((XC)'(XC))^{-1}(XC)'\\
 $$
 
 
-Note that $$\bar{P}_X = (I-P_X)$$, Thus, we have already shown that $$\bar{P}_X = \bar{P}_X*$$
+Note that $$\bar{P}_X = (I-P_X)$$, Thus, we have already shown that $$\bar{P}_X = \bar{P}_{X*}$$
 
 
 
@@ -71,7 +71,7 @@ $$
 
 
 
-> *It's helpful to consider here that  we can denote the error $e$ as:*
+> *It's helpful to consider here that  we can denote the error $$e$$ as:*
 
 $$
 e = y - \hat{y}
@@ -109,11 +109,11 @@ $$
 \hat{y} &= P_XY
 \end{align*}
 $$
-From above, $P_{X^*} = P_X$.
+From above, $$P_{X^*} = P_X$$.
 
 
 
-From the above note, we can see also that the residuals $e$ do not change as y on X* and y on X maintain the same dependent variable, such that.
+From the above note, we can see also that the residuals $$e$$ do not change as y on X* and y on X maintain the same dependent variable, such that.
 
 
 These results imply the invariance of fitted values and residuals to nonsingular transformations of the independent variables.
@@ -134,15 +134,15 @@ Multiplying the independent variable by a constant (diagonal matrix) indicates a
 
 
 
-**(c) Suppose that X contains two regressors $X_1$ and $X_2$ each of dimension $n \times 1$. If we run the regression of $ y $ on $(X_1 -X_2)$ and $(X_1 + X_2)$, will these yield the same fitted values and the same residuals as the original regression of y on $X_1$ and $X_2$?**
+**(c) Suppose that X contains two regressors $$X_1$$ and $$X_2$$ each of dimension $$n \times 1$$. If we run the regression of $$y$$ on $$(X_1 -X_2)$$ and $$(X_1 + X_2)$$, will these yield the same fitted values and the same residuals as the original regression of y on $$X_1$$ and $$X_2$$?**
 
 
 
-By intuition, we might assume that $(X_1 -X_2)$ and $(X_1 + X_2)$ are nonsingular transformations of X. Let's show this with matrices:
+By intuition, we might assume that $$(X_1 -X_2)$$ and $$(X_1 + X_2)$$ are nonsingular transformations of X. Let's show this with matrices:
 
 
 
-First, note that originally,  $X = [X_1, X_2]$. Now, we can consider the transformation provided above by  $X^* = [X_1-X_2,X_1+X_2]$. 
+First, note that originally,  $$X = [X_1, X_2]$$. Now, we can consider the transformation provided above by  $$X^* = [X_1-X_2,X_1+X_2]$$. 
 
 
 
@@ -174,7 +174,7 @@ $\blacksquare$
 
 
 
-**(a) Using partitioned inverse results from the Appendix, show that the solution to (7.9) yield $\hat{\beta_2}_{OLS}$ given in (7.10)** 
+**(a) Using partitioned inverse results from the Appendix, show that the solution to (7.9) yield $$\hat{\beta_2}_{OLS}$$ given in (7.10)** 
 
 
 
@@ -236,8 +236,9 @@ A^{-1}A{X}=A^{-1}B\\
 X = A^{-1}B
 $$
 
-> Also note that if $X = \begin{bmatrix} x_1 \\x_2  \end{bmatrix}$, we can solve for only $X_2$:
-> $$
+> Also note that if $$X = \begin{bmatrix} x_1 \\x_2  \end{bmatrix}$$, we can solve for only $$X_2$$:
+> 
+>$$
 > \begin{align*}A^{-1} &= \begin{bmatrix}
 > A_{11} & A_{12}\\
 > A_{21} & A_{22}
@@ -258,7 +259,7 @@ A_{21} & A_{22}
 \end{bmatrix}\begin{bmatrix} x_1 \\x_2  \end{bmatrix} \\
 $$
 
-> Such that $b_1 = A_{11}x_1+A_{12}{x_2}$ and $b_2 = A_{21}x_1+A_{22}{x_2}$
+> Such that $$b_1 = A_{11}x_1+A_{12}{x_2}$$ and $$b_2 = A_{21}x_1+A_{22}{x_2}$$
 
 
 
@@ -284,11 +285,11 @@ A_{11}^{-1}+A_{11}^{-1}A_{12}FA_{21}A_{11}^{-1} & -A_{11}^{-1}A_{12}F\\
 $$
 
 
-Where $F = (A_{22}-A_{21}A_{11}^{-1}A_{12})^{-1}$
+Where $$F = (A_{22}-A_{21}A_{11}^{-1}A_{12})^{-1}$$
 
 
 
-Solving for $F = (A_{22}-A_{21}A_{11}^{-1}A_{12})^{-1}$ using $A$ above:
+Solving for $$F = (A_{22}-A_{21}A_{11}^{-1}A_{12})^{-1}$ using $A$$ above:
 
 
 $$
@@ -335,7 +336,7 @@ $$
 
 
 
-**(b) Alternatively, write (7.9) as a system of two equations in two unknowns $\hat{\beta}_{1,OLS}$ and$\hat{\beta}_{2,OLS}$. Solve, by eliminating $\hat{\beta}_{1,OLS}$ and show that the resulting solution is given by (7.10)**
+**(b) Alternatively, write (7.9) as a system of two equations in two unknowns $$\hat{\beta}_{1,OLS}$$ and $$\hat{\beta}_{2,OLS}$$. Solve, by eliminating $$\hat{\beta}_{1,OLS}$$ and show that the resulting solution is given by (7.10)**
 
 
 $$
