@@ -301,7 +301,9 @@ p > img {
   }
 }
 
-.site-info {
+.
+
+-info {
   float: left;
 
   @include mobile {
@@ -315,7 +317,7 @@ p > img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $computer;
+  font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -382,7 +384,7 @@ nav {
     margin: 1.8em .8em;
     /*border-left: 2px solid $gray;*/
     padding: 0.1em 1em;
-    color: $gray;
+    color: #9a9a9a;
     font-size: 22px;
     font-style: italic;
     background-color: #ede1ff;
