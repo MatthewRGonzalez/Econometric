@@ -1,5 +1,12 @@
+---
+layout: post
+title:  Pullquotes
+categories: [Welcome!]
+excerpt: An introduction to the site.
+---
 
-An introduction to the site.
+
+
 
 # Hello Everyone!
 
