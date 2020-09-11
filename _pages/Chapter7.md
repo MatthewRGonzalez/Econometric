@@ -322,16 +322,14 @@ $$
 \hat{\beta}{_{1,OLS}}\\
 \hat{\beta}{_{2,OLS}}
 \end{bmatrix} =
-
 \begin{bmatrix}
 blah & blah \\
 -(X_2'\bar{P_X}X_2)X_2'X_2(X_1'X_1)^{-1} & (X_2'\bar{P_X}X_2)^{-1} 
 \end{bmatrix}
-
 \begin{bmatrix}
 X_{1}'y\\
 X_{2}'y
-\end{bmatrix}\\
+\end{bmatrix}
 $$
 
 $$
