@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Pullquotes
+title:  First Post
 categories: [Welcome!]
 excerpt: An introduction to the site.
 ---
