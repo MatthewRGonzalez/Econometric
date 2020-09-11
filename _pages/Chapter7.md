@@ -308,10 +308,14 @@ F &= (X_2'X_2-X_2'X_1(X_1'X_1)^{-1}X_1'X_2)^{-1} \\
  &= (X_2'\bar{P_X}X_2)^{-1}
 \end{align*}
 $$
-Similiarly, solving for $-FA_{21}A_{11}^{-1}$ yields 
+Similiarly, solving for $$-FA_{21}A_{11}^{-1}$$ 
+
+yields 
+
 $$
 -(X_2'\bar{P_X}X_2)X_2'X_2(X_1'X_1)^{-1}
 $$
+
 Thus:
 $$
 \begin{bmatrix}
