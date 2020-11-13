@@ -1,3 +1,4 @@
+:vertical
 ---
 layout: page
 permalink: /categories/
