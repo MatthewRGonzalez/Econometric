@@ -32,9 +32,9 @@ Thanks mostly to  `vimtutor` and the wonders of Youtube, I've worked in the new 
 Part of what drew me towards working with Vim (and then Neovim) was probably the degree of customizability. Not only am I able so set my own keyboard shortcuts, but I've also had the luxury of change the color scheme, window set up and much more.
 
 
-## Exhibit A: ![Image of ascii](https://github.com/MatthewRGonzalez/Econometric/blob/master/images/sistine.png?raw=true)
+*Exhibit A*: ![Image of ascii](https://github.com/MatthewRGonzalez/Econometric/blob/master/images/sistine.png?raw=true)
 
-## Exhibit B: ![Image of enter screen](https://github.com/MatthewRGonzalez/Econometric/blob/master/images/entry.png?raw=true)
+*Exhibit B*: ![Image of enter screen](https://github.com/MatthewRGonzalez/Econometric/blob/master/images/entry.png?raw=true)
 
 
 Theres obviously a lot that I like in terms of layout and design, but I'm also enjoying the fact that using Vim has forced me to really explore the command line, and have a better understanding of my directory structures, files and much more.
