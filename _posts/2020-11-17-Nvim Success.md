@@ -1,9 +1,9 @@
 ---
 layout: post
-title:   A development setup for R in NVIM...
+title:   A development setup for R in NVIM
 categories: [Programming]
 excerpt: This took way too much of my time 
---
+---
 
 # What I've been up to:
 
@@ -25,16 +25,16 @@ Well, until now.
 At some point during this semester, I accidentally opened Vim again, though this time I was less terrified, and more curious.
 
 
-Thanks mostly to ~~~ vimtutor ~~~ and the wonders of Youtube, I've worked in the new environment to develop proficiency in motions, commands, and scripting in vim.
+Thanks mostly to  `vimtutor` and the wonders of Youtube, I've worked in the new environment to develop proficiency in motions, commands, and scripting in vim.
 
 # Ok but I still don't care, what have you come up with?
 
 Part of what drew me towards working with Vim (and then Neovim) was probably the degree of customizability. Not only am I able so set my own keyboard shortcuts, but I've also had the luxury of change the color scheme, window set up and much more.
 
 
-Exhibit A: ![Image of ascii](https://github.com/MatthewRGonzalez/Econometric/blob/master/images/sistine.png?raw=true)
+## Exhibit A: ![Image of ascii](https://github.com/MatthewRGonzalez/Econometric/blob/master/images/sistine.png?raw=true)
 
-Exhibit B: ![Image of enter screen](https://github.com/MatthewRGonzalez/Econometric/blob/master/images/entry.png?raw=true)
+## Exhibit B: ![Image of enter screen](https://github.com/MatthewRGonzalez/Econometric/blob/master/images/entry.png?raw=true)
 
 
 Theres obviously a lot that I like in terms of layout and design, but I'm also enjoying the fact that using Vim has forced me to really explore the command line, and have a better understanding of my directory structures, files and much more.
@@ -47,7 +47,7 @@ It will be better to attach a recorded demo of what I have actually created.
 
 I'll also post my vimrc in the off chance that someone stumbles upon this and is interested.
 
-But for now thats all :wq :)
+But for now, thats all :wq :)
 
 
 
