@@ -50,5 +50,17 @@ I'll also post my vimrc in the off chance that someone stumbles upon this and is
 But for now, thats all :wq :)
 
 
+---
+# UPDATE:
+
+I'm adding some .gifs of my R environment.
+
+![here](https://github.com/MatthewRGonzalez/Econometric/blob/master/images/Untitled%202.gif?raw=true)
+
+*Note the synchronous autocompletion for R*
+
+
+![and here](https://github.com/MatthewRGonzalez/Econometric/blob/master/images/Untitled3.gif?raw=true)
+
 
 
