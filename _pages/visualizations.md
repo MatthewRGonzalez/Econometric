@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /visualizations/
-title: Visualizations
+permalink: /GRE/
+title: GRE
 ---
 
 
