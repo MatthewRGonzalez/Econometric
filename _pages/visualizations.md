@@ -7,7 +7,7 @@ title: Vizualizations
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](https://github.com/MatthewRGonzalez/AotC/blob/master/images/Screen%20Shot%202021-03-09%20at%2010.07.43%20AM.png?raw=true)  |  ![](https://user-images.githubusercontent.com/48069432/112761510-a71fa700-8fc9-11eb-98a6-0fcf8db11097.png)
 
 
 
