@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 
+title: Hey there 👋
 permalink: /about/
 ---
-# Hey there 👋
+
 
 ## MATTHEW GONZALEZ
 Matthew Gonzalez is a **predoctoral research fellow** in Sociology at the Johns Hopkins University. 
