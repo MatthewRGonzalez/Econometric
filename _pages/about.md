@@ -4,7 +4,7 @@ title: Hey there 👋
 permalink: /about/
 ---
 
-*Ahead of the Curve* is intended to serve as a collection of thoughts, ideas and visualizations as a pursue a graduate degree in Economics. 
+*Ahead of the Curve* is intended to serve as a collection of thoughts, ideas and visualizations as I pursue a graduate degree in Economics. 
 
 ## Who am I? 
 Matthew Gonzalez is a **predoctoral research fellow** in Sociology at the Johns Hopkins University. 
