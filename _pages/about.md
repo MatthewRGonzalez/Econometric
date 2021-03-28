@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-# About m 
+# Hey there 👋
 
 ## MATTHEW GONZALEZ
 **Predoctoral Research Fellow**
