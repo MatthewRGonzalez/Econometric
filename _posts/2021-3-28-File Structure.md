@@ -2,7 +2,7 @@
 layout: post
 title:   A Later Post
 categories: [Update]
-excerpt: I created a a repository for intializing a directory structure for research projects. The actual results can be explored more in
+excerpt: I created a a repository for intializing a directory structure for research projects. The actual results can be explored more in... ![](https://github.com/MatthewRGonzalez/file_structure/blob/main/images/Screen%20Shot%202021-03-26%20at%2010.22.57%20PM.png?raw=true)
 ---
 
 # Update
@@ -13,7 +13,9 @@ A few items:
 - **New project**
 
 I created a a repository for intializing a directory structure for research projects. The actual results can be explored more in the [README](https://github.com/MatthewRGonzalez/file_structure). 
-There's more to be done (*as always...*), but I believe that this can save some time and improve organization for future projects
+There's more to be done (*as always...*), but I believe that this can save some time and improve organization for future projects: Take a look at the final result below:
+
+![](https://github.com/MatthewRGonzalez/file_structure/raw/main/images/Screen%20Shot%202021-03-26%20at%2010.31.13%20PM.png?raw=true)
 
 
 
