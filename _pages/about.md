@@ -14,6 +14,6 @@ Originally from Connecticut, Matt earned both a BSc and MA in Economics from Syr
 # Research Interests: 
 
 <div align="center">
-*Labor Market Outcomes, Wealth and Income Inequality, Crime*
+  <i> Labor Market Outcomes, Wealth and Income Inequality, Crime </i>
 </div>
 
