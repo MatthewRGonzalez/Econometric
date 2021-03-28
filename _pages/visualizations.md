@@ -6,7 +6,6 @@ title: Vizualizations
 
 
 🎊🎊🎊
----
 <table><tr>
 
 <td> 
