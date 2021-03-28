@@ -4,7 +4,7 @@ permalink: /Viz/
 title: Vizualizations
 ---
 
-<center>🎊🎊🎊</center>
+<div align="center"> 🎊 🎊 🎊 </div>
 
 <table><tr>
 
