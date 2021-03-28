@@ -3,7 +3,7 @@ layout: page
 permalink: /Viz/
 title: Vizualizations
 ---
-
+<html>
 <body>
   <section class="container pages-content">
 
@@ -53,7 +53,7 @@ title: Vizualizations
 
 
 
-
+</html>
 
 
 
