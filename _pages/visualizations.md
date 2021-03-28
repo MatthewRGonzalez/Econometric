@@ -7,12 +7,16 @@ title: Vizualizations
 ---
 <table><tr>
 
-<td> <img src="https://github.com/MatthewRGonzalez/AotC/blob/master/images/Screen%20Shot%202021-03-09%20at%2010.07.43%20AM.png?raw=true" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="https://user-images.githubusercontent.com/48069432/112761510-a71fa700-8fc9-11eb-98a6-0fcf8db11097.png" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="https://user-images.githubusercontent.com/48069432/112761510-a71fa700-8fc9-11eb-98a6-0fcf8db11097.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> 
+<img src="https://github.com/MatthewRGonzalez/AotC/blob/master/images/Screen%20Shot%202021-03-09%20at%2010.07.43%20AM.png?raw=true" alt="Drawing" style="width: 250px;"/> </td>
 <td> <img src="https://user-images.githubusercontent.com/48069432/112761510-a71fa700-8fc9-11eb-98a6-0fcf8db11097.png" alt="Drawing" style="width: 250px;"/> </td>
 
-</tr></table>
+</tr>
+<tr>
+<td> <img src="https://user-images.githubusercontent.com/48069432/112761510-a71fa700-8fc9-11eb-98a6-0fcf8db11097.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="https://user-images.githubusercontent.com/48069432/112761510-a71fa700-8fc9-11eb-98a6-0fcf8db11097.png" alt="Drawing" style="width: 250px;"/> </td>
+</tr>
+</table>
 
 ---
 
