@@ -4,8 +4,10 @@ title: Hey there 👋
 permalink: /about/
 ---
 
+# About AotC
+*Ahead of the Curve* is intended to serve as a collection of thoughts, visualizations and experiments as I develop my skills in research
 
-## MATTHEW GONZALEZ
+## Who am I? 
 Matthew Gonzalez is a **predoctoral research fellow** in Sociology at the Johns Hopkins University. 
 
 ## ACADEMIC BACKGROUND
