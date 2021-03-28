@@ -2,7 +2,7 @@
 layout: post
 title:   New Repository
 categories: [Update]
-excerpt: I created a a repository for intializing a directory structure for research projects. The actual results can be explored more in the [README](https://github.com/MatthewRGonzalez/file_structure)...
+excerpt: I created a a repository for intializing a directory structure for research projects. The actual results can be explored more in...
 ---
 
 # Update
